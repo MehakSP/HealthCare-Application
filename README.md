@@ -1,2 +1,3 @@
-# healthcare
+Electronic health records (EHRs) record the patients’ diagnostic and treatment information which contributes to the provision of convenient health record storage services.Blockchain has the characteristics of decentralization, traceability, and programmability and it can protect the stored data from being tampered with and forged,hence it is the core technology being used.
+The medical abstract and the access strategy are stored in the blockchain to avoid being tampered with. To achieve the fine-grained access control, we propose the attribute-based encryption scheme and multi-keyword encryption scheme to encrypt EHRs. 
  
